@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PTGPRANAV/Portfolio-Pranav/static/css/main.b0de9ba2.css",
+    "main.js": "/PTGPRANAV/Portfolio-Pranav/static/js/main.0d1f0af9.js",
+    "static/media/dragon.png": "/PTGPRANAV/Portfolio-Pranav/static/media/dragon.3a2b4c3328211dcde1ca.png",
+    "static/media/pranav4.png": "/PTGPRANAV/Portfolio-Pranav/static/media/pranav4.1d5704f0024fc3146adb.png",
+    "static/media/pranav9.png": "/PTGPRANAV/Portfolio-Pranav/static/media/pranav9.6dd4e487af7f2575d79f.png",
+    "static/media/developer11.png": "/PTGPRANAV/Portfolio-Pranav/static/media/developer11.bc8cd4a747216ce123ce.png",
+    "static/media/mausam.png": "/PTGPRANAV/Portfolio-Pranav/static/media/mausam.f1fa904cd4149fab4b4e.png",
+    "static/media/CV.pdf": "/PTGPRANAV/Portfolio-Pranav/static/media/CV.80fecab2cf72f51fa45f.pdf",
+    "static/media/Trie.png": "/PTGPRANAV/Portfolio-Pranav/static/media/Trie.cf0926fffa67b7587cbc.png",
+    "static/media/font1.otf": "/PTGPRANAV/Portfolio-Pranav/static/media/font1.828d7a90221b6fa712df.otf",
+    "static/media/science.png": "/PTGPRANAV/Portfolio-Pranav/static/media/science.3bf6fb4b18b1f904676d.png",
+    "static/media/api.png": "/PTGPRANAV/Portfolio-Pranav/static/media/api.f87874ce047da91ec983.png",
+    "static/media/node-js.png": "/PTGPRANAV/Portfolio-Pranav/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/c++.png": "/PTGPRANAV/Portfolio-Pranav/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/mysql.png": "/PTGPRANAV/Portfolio-Pranav/static/media/mysql.497f0352daee384d84b7.png",
+    "static/media/man.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/man.766e140d8726252ca36b1978ed63e475.svg",
+    "static/media/figma.png": "/PTGPRANAV/Portfolio-Pranav/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/PTGPRANAV/Portfolio-Pranav/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/PTGPRANAV/Portfolio-Pranav/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/PTGPRANAV/Portfolio-Pranav/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/educationlamp.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/educationlamp.85730043f665536bf55966e82e57dae6.svg",
+    "static/media/lightbulb.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/lightbulb.fac35cbf4d243c1d7d3ee5237be8a2bf.svg",
+    "static/media/SocialIcons4.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/SocialIcons4.1bc596064788d38546abf0a1bb2cf410.svg",
+    "static/media/SocialIcons3.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/SocialIcons3.3559835bc7f9ef920cf57e328b5f890e.svg",
+    "static/media/SocialIcons1.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/SocialIcons1.b8267e5e0c1597c4dfab7744f16a8de9.svg",
+    "static/media/SocialIcons2.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/SocialIcons2.1fc25532f197be20a444a56966fa3624.svg",
+    "static/media/SocialIcons.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/SocialIcons.6b209bbfe385a39e6a04ba25d8f266e9.svg",
+    "static/media/Vector.svg": "/PTGPRANAV/Portfolio-Pranav/static/media/Vector.055fc70b60bc4511632b7f974e21a6ba.svg",
+    "index.html": "/PTGPRANAV/Portfolio-Pranav/index.html",
+    "main.b0de9ba2.css.map": "/PTGPRANAV/Portfolio-Pranav/static/css/main.b0de9ba2.css.map",
+    "main.0d1f0af9.js.map": "/PTGPRANAV/Portfolio-Pranav/static/js/main.0d1f0af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0de9ba2.css",
+    "static/js/main.0d1f0af9.js"
+  ]
+}
